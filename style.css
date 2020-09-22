@@ -1,3 +1,32 @@
 h1 {
   font-family: "Satisfy", cursive;
 }
+
+.price {
+  font-weight: bold;
+}
+
+.card-img-top {
+  height: 200px;
+  width: 100%;
+}
+
+.orderBut {
+  border-radius: 3px;
+  margin: 0px 2px;
+}
+
+.but-red {
+  background-color: lightcoral;
+  border-color: lightseagreen;
+}
+
+.but-white {
+  background-color: bisque;
+  border-color: black;
+}
+
+a:hover,
+#carrito:hover {
+  cursor: pointer;
+}
